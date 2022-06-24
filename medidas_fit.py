@@ -39,7 +39,7 @@ print('\033[34m=\033[m' * 35)
 print('\033[33m    Água Necessidade Diária\033[m')
 print('\033[34m=\033[m' * 35 )
 
-agua = peso * 32
+agua = peso * 35
 print('Beba {} ml de água por dia'.format(agua))
 
 #Taxa Metabolica Basal
